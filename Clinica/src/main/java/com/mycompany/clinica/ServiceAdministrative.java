@@ -12,7 +12,7 @@ public class ServiceAdministrative {
         this.manager = manager;
     }
     
-    public void mostrarInfo(){
+    public void showInfo(){
         System.out.println("Servicio Administrativo: " + nameService);
         System.out.println("Encargado: " + manager);
     }

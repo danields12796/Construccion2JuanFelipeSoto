@@ -1,4 +1,7 @@
+com\mycompany\clinica\DiagnosticService.class
 com\mycompany\clinica\Clinica.class
 com\mycompany\clinica\HumanResources.class
-com\mycompany\clinica\ServiceAdministrative.class
 com\mycompany\clinica\serviceSupport.class
+com\mycompany\clinica\BasicMedicalService.class
+com\mycompany\clinica\TherapeuticService.class
+com\mycompany\clinica\ServiceAdministrative.class

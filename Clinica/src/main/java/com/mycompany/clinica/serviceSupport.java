@@ -12,7 +12,7 @@ public class serviceSupport {
         this.description = description;
     }
     
-    public void mostrarInfo(){
+    public void showInfo(){
         System.out.println("Servicio de apoyo: " + nameSupport);
         System.out.println("Descripcion: " + description);
     }

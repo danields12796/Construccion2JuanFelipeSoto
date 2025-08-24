@@ -12,7 +12,7 @@ public class HumanResources {
         this.numberEmployees = numberEmployees;
     }
     
-    public void mostrarInfo(){
+    public void showInfo(){
         System.out.println("Servicio de soporte y recursos Humanos: " + nameService);
         System.out.println("Cantidad de empleados: " + numberEmployees);
     }
