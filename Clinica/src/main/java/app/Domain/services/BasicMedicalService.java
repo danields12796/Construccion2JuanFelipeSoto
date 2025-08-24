@@ -1,5 +1,4 @@
-
-package com.mycompany.clinica;
+package app.dominio.services;
 
 
 public class BasicMedicalService {

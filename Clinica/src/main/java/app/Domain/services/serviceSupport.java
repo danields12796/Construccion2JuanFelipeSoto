@@ -1,6 +1,4 @@
-
-package com.mycompany.clinica;
-
+package app.dominio.services;
 
 public class serviceSupport {
     
@@ -12,7 +10,7 @@ public class serviceSupport {
         this.description = description;
     }
     
-    public void showInfo(){
+    public void mostrarInfo(){
         System.out.println("Servicio de apoyo: " + nameSupport);
         System.out.println("Descripcion: " + description);
     }

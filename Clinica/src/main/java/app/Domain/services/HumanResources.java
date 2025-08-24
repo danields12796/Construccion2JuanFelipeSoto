@@ -1,6 +1,4 @@
-
-package com.mycompany.clinica;
-
+package app.dominio.services;
 
 public class HumanResources {
     
@@ -12,7 +10,7 @@ public class HumanResources {
         this.numberEmployees = numberEmployees;
     }
     
-    public void showInfo(){
+    public void mostrarInfo(){
         System.out.println("Servicio de soporte y recursos Humanos: " + nameService);
         System.out.println("Cantidad de empleados: " + numberEmployees);
     }

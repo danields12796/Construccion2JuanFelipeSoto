@@ -1,6 +1,4 @@
-
-package com.mycompany.clinica;
-
+package app.dominio.services;
 
 public class ServiceAdministrative {
     
@@ -12,7 +10,7 @@ public class ServiceAdministrative {
         this.manager = manager;
     }
     
-    public void showInfo(){
+    public void mostrarInfo(){
         System.out.println("Servicio Administrativo: " + nameService);
         System.out.println("Encargado: " + manager);
     }
